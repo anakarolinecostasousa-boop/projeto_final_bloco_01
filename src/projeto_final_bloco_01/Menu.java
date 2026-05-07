@@ -3,6 +3,9 @@ package projeto_final_bloco_01;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+import projeto_final_bloco_01.controller.ProdutoController;
+import projeto_final_bloco_01.model.ProdutoPet;
+
 public class Menu {
     public static void main(String[] args) {
 

@@ -1,4 +1,6 @@
-package projeto_final_bloco_01;
+package projeto_final_bloco_01.repository;
+
+import projeto_final_bloco_01.model.Produto;
 
 public interface ProdutoRepository {
     public void procurarPorId(int id);

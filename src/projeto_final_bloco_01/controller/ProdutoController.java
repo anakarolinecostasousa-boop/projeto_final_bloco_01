@@ -1,6 +1,9 @@
-package projeto_final_bloco_01;
+package projeto_final_bloco_01.controller;
 
 import java.util.ArrayList;
+
+import projeto_final_bloco_01.model.Produto;
+import projeto_final_bloco_01.repository.ProdutoRepository;
 
 public class ProdutoController implements ProdutoRepository {
 
